@@ -1,0 +1,13 @@
+* {
+    padding: 0%;
+    margin: 0px;
+}
+body {
+    border: 4px dashed teal;
+}
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+    padding: 2%;
+}
